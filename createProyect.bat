@@ -1,0 +1,2 @@
+@echo on
+mvn archetype:generate -DarchetypeGroupId=com.kodnito -DarchetypeArtifactId=kodnito-microprofile-archetype -DarchetypeVersion=1.0.1 -DgroupId=com.kodnito.bookstore.rest -DartifactId=book-store -Dversion=1.0-SNAPSHOT
